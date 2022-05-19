@@ -1,17 +1,15 @@
-note: This is for testing only
-splunk documentation
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
-   This project is under active development.
+  https://github.com/jodywburnett/
 
-Contents
---------
 
 .. toctree::
 
    usage
    api
+
+note: This is for testing only
+splunk documentation
+
+
+
